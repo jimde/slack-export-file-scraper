@@ -4,5 +4,5 @@ Usage: `python scrape.py [list/download]`
 
 Options:
 
-list: lists all files to be downloaded  
-download: download the files")
+*list*: lists all files to be downloaded  
+*download*: download the files")
